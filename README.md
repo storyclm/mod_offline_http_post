@@ -1,11 +1,13 @@
-Ejabberd 17.04 module to send offline user's message via POST request to target URL.
-This module can call an api to send e.g. a push message. 
+Ejabberd 18.06 module to send offline user's message via POST request to target URL.
+This module can call an api to send e.g. a push message.
 The request body is in application/x-www-form-urlencoded format. See the example below.
 
 V17.01
 Forked from Nimrodda/mod_offline_http_post ejabberd 16.08
 
 V17.04 updated and tested in 17.04, I assume it works in 17.03 also.
+
+V18.06 updated and tested in 18.06, it does not work for previous versions.
 
 Installation
 ------------
@@ -48,4 +50,3 @@ array(5) {
   string(13) "purple3838f2f"
 }
 ```
-
