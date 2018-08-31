@@ -1,1 +1,1 @@
-{'src/mod_offline_http_post', [{outdir, "ebin"},{i,"/lib/ejabberd-18.06.92/include/"}]}.
+{'src/mod_offline_http_post', [{outdir, "ebin"},{i,"/usr/local/lib/ejabberd-18.06.112/include/"}]}.
